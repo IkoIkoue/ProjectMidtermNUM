@@ -14,6 +14,7 @@ public class MidtermApp extends Application {
         Scene scene = new Scene(fxmlLoader.load(), 480, 240);
         stage.setTitle("Midterm App Login");
         stage.setScene(scene);
+        stage.setResizable(false);
         stage.show();
     }
 
