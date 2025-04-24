@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                project.midterm.projectmidtermnum/project.midterm.projectmidtermnum.HelloApplication
+                                project.midterm.projectmidtermnum/project.midterm.projectmidtermnum.MidtermApp
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
